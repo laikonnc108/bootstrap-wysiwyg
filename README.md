@@ -1,4 +1,4 @@
-bootstrap-wysiwyg
+bootstrap-wysiwyg my fork
 =================
 [![GitHub release](https://img.shields.io/github/release/steveathon/bootstrap-wysiwyg.svg?maxAge=2592000)](https://github.com/steveathon/bootstrap-wysiwyg)
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/steveathon/bootstrap-wysiwyg)
